@@ -1,0 +1,13 @@
+[17-Jan-2025 17:14:15 Asia/Jakarta] PHP Warning:  Undefined variable $username in /home/teky6584/public_html/project_api/api_tama/event/save_booking.php on line 11
+[17-Jan-2025 17:14:29 Asia/Jakarta] PHP Warning:  Undefined variable $username in /home/teky6584/public_html/project_api/api_tama/event/save_booking.php on line 11
+[17-Jan-2025 17:16:38 Asia/Jakarta] PHP Warning:  Undefined variable $username in /home/teky6584/public_html/project_api/api_tama/event/save_booking.php on line 11
+[17-Jan-2025 17:35:21 Asia/Jakarta] PHP Warning:  Undefined variable $username in /home/teky6584/public_html/project_api/api_tama/event/save_booking.php on line 11
+[17-Jan-2025 18:02:01 Asia/Jakarta] PHP Warning:  Undefined variable $dbname in /home/teky6584/public_html/project_api/api_tama/event/delete_booking.php on line 12
+[17-Jan-2025 18:02:01 Asia/Jakarta] PHP Warning:  Undefined variable $username in /home/teky6584/public_html/project_api/api_tama/event/delete_booking.php on line 12
+[17-Jan-2025 18:02:01 Asia/Jakarta] PHP Warning:  Undefined variable $password in /home/teky6584/public_html/project_api/api_tama/event/delete_booking.php on line 12
+[17-Jan-2025 18:02:59 Asia/Jakarta] PHP Warning:  Undefined variable $dbname in /home/teky6584/public_html/project_api/api_tama/event/delete_booking.php on line 12
+[17-Jan-2025 18:02:59 Asia/Jakarta] PHP Warning:  Undefined variable $username in /home/teky6584/public_html/project_api/api_tama/event/delete_booking.php on line 12
+[17-Jan-2025 18:02:59 Asia/Jakarta] PHP Warning:  Undefined variable $password in /home/teky6584/public_html/project_api/api_tama/event/delete_booking.php on line 12
+[17-Jan-2025 18:03:06 Asia/Jakarta] PHP Warning:  Undefined variable $dbname in /home/teky6584/public_html/project_api/api_tama/event/delete_booking.php on line 12
+[17-Jan-2025 18:03:06 Asia/Jakarta] PHP Warning:  Undefined variable $username in /home/teky6584/public_html/project_api/api_tama/event/delete_booking.php on line 12
+[17-Jan-2025 18:03:06 Asia/Jakarta] PHP Warning:  Undefined variable $password in /home/teky6584/public_html/project_api/api_tama/event/delete_booking.php on line 12
